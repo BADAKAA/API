@@ -6,7 +6,6 @@
     "Gesamtumsatz": "int",
     "Bestellungen": "int",
     "Versendete Kampagnen": "int,
-    "date": "date",
-    "comments": "Comment[]"
+    "Datum": "date"
   }
 }
