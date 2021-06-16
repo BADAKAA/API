@@ -5,7 +5,7 @@
   "KPI": {
     "Gesamtumsatz": "int",
     "Bestellungen": "int",
-    "Versendete Kampagnen": "int,
+    "Versendete Kampagnen": "int",
     "Datum": "date"
   }
 }
